@@ -2,14 +2,10 @@
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
-- <b>(React, NodeJS, and Web scraping)</b>
-  - [Movie Match][[([https://github.com/kcraguini/Algorithms-Practice](https://github.com/arsh231321312/MovieMatch))]([https://github.com/arsh231321312/MovieMatch](https://github.com/arsh231321312/MovieMatch))](https://github.com/arsh231321312/MovieMatch)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Full Stack Web Application to make you check off more of your LetterBoxd watchlist (React, NodeJS, and Web scraping)</b>
+  - [Movie Match][(https://github.com/arsh231321312/MovieMatch)]
+- <b>Full Stack Web Application to intrigue users to garden (HTML, CSS, SASS, Javascript, Bootstrap)</b>
+  - [Find My Plant] [(https://github.com/ZachSierra/UserInterfacesGroup)](https://github.com/ZachSierra/UserInterfacesGroup)
 
  
 
