@@ -1,4 +1,4 @@
-<h1>Hi, I'm Katherine! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/katherine-raguini-student/">Cybersecurity Professional</a>
+<h1>Hi, I'm Katherine! <br/><a href="https://github.com/joshmadakor1">Fullstack Developer</a>, <a href="https://www.linkedin.com/in/katherine-raguini-student/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Engineer Projects:</h2>
 
